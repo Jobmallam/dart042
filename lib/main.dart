@@ -51,19 +51,19 @@ class MyHomePage extends StatelessWidget {
                 description: "DEAD OR ALIVE",
                 price: 200000000,
                 image:
-                    "https://drive.google.com/file/d/1EU_o3knXyVvk-Kr_I6xV6F782PX_Jq0w/view?usp=sharing"),
+                    "https://ctl.s6img.com/society6/img/hj0P8IO1tkAr9HioimVenws-CFU/w_700/canvas/~artwork/s6-original-art-uploads/society6/uploads/misc/f169b0e3e82147489d32b957839e39c0/~~/god-usopp-wanted-poster-canvas.jpg"),
             ProductBox2(
                 name: "Vinsmoke Sanji",
                 description: "DEAD OR ALIVE",
                 price: 330000000,
                 image:
-                    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2F143958826091&psig=AOvVaw0YNYwpcN0QYtgQZtChfoDY&ust=1706764255759000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDj-cLuhoQDFQAAAAAdAAAAABAH"),
+                    "https://render.fineartamerica.com/images/rendered/default/poster/5.5/8/break/images/artworkimages/medium/3/vinsmoke-sanji-bounty-wanted-poster-one-piece-shiro-vexel.jpg"),
             ProductBox2(
                 name: "Tony Tony Chopper",
                 description: "DEAD OR ALIVE",
                 price: 1000,
                 image:
-                    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1125055550647580845%2F&psig=AOvVaw0gzmPJPyt-U9jZ6SZpbg3O&ust=1706764203638000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiDyqTuhoQDFQAAAAAdAAAAABAI"),
+                    "https://ctl.s6img.com/society6/img/ZJbMCC44JBFRjdqURA_S9FAfc8w/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/51d3967b8ef444108393561375fd8da4/~~/tony-tony-chopper-wanted-poster-prints.jpg"),
           ],
         ));
   }
